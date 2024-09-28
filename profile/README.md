@@ -9,13 +9,15 @@ Vignan's Foundation for Science, Technology and Research (VFSTR) is a center of 
 
 ## Contact Us
 
-For more detailed inquiries or to get involved with our projects, feel free to [contact us](https://vignan.ac.in/).
+For more detailed inquiries or to get involved with our projects, feel free to [contact us](mailto:vcs_td@vignan.ac.in).
 
 ## Address
 
 Vignan's Foundation for Science Technology and Research (VFSTR) (Deemed to be University)  
 Vadlamudi, Guntur District,  
 Andhra Pradesh - 522213, India.
+
+[www.vignan.ac.in](https://www.vignan.ac.in/)
 
 ---
 
